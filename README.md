@@ -1,19 +1,3 @@
-## Future Features
--integrate with Instagram to place photos on the map
--Set up DB properly
--Create a way for me to add entries and locations from the deployed sensitive
--add authentication
+## Practice React App
 
-
-
-#### Other Things to learn
-- learn about linux, distros and operating systems
-- Comp Sci and Java knowledge
-- Cross browser Compatibility (I feel like it is a very popular question)
-
-- OOO Cracking the coding interview
-
-
-## Important Things
-- Apply Apply Apply
-- Go To meetups
+This is an app to familiarize myself with different react concepts. Mostly state, props and routing as well as ES6 classes
